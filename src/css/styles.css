@@ -5,4 +5,5 @@
   |============================
 */
 @import url('./reset.css');
-
+@import url('./styles-form.css');
+@import url('./styles-gallery.css');
